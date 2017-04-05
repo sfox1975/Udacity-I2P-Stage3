@@ -15,7 +15,7 @@ import fresh_tomatoes
 
 bourne_identity = media.Movie("The Bourne Identity",
                               "A man is picked up by a fishing boat, bullet-riddled and suffering from amnesia, before racing to elude assassins and regain his memory.",
-                              "http://www.getbourneidentity.com/images/posters/bourne-identity-poster-2.jpg",
+                              "https://www.movieposter.com/posters/archive/main/106/MPW-53157",
                               "https://www.youtube.com/watch?v=cD-uQreIwEk")
 
 hurt_locker = media.Movie("The Hurt Locker",
@@ -36,7 +36,7 @@ platoon = media.Movie("Platoon",
 shawshank = media.Movie("The Shawshank Redemption",
                         "Two imprisoned men bond over a number of years, " +
                         "finding solace and eventual redemption through acts of common decency.",
-                        """http://topmoviesbygenre.com/wp-content/uploads/2015/01/the-shawshank-redemption-movie-poster-1994.jpg""",
+                        """https://www.movieposter.com/posters/archive/main/12/A70-6457""",
                         "https://www.youtube.com/watch?v=NmzuHjWmXOc")
 
 lost_ark = media.Movie("Raiders of the Lost Ark",
